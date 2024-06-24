@@ -607,7 +607,7 @@ body:after {
 
 .site-blocks-cover {
   background-size: cover;
-  background-image: url(/images/IMG_1219.png);
+  background-image: url(./images/IMG_1219.png);
   background-repeat: no-repeat;
   background-position: top;
   background-position: center center;
